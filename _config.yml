@@ -23,6 +23,7 @@ twitter_username: gdouzwt
 github_username:  gdouzwt
 permalink: pretty
 baseurl: "/"
+url: "https//hmv.zwt.io"
 title: "hmv release notes"
 RSS: true
 # Build settings
